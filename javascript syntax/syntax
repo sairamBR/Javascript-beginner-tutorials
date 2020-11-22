@@ -1,0 +1,24 @@
+Javascript Syntax
+    The javascript is implenmented using the javascript statements that are placed within <script>......</script> within the head or body section of HTML file.
+    For Example
+          <html>
+            <head>
+              <script language = "javascript" type = "text/javascript">
+                 alert("javascript tutorials by sairam")
+              </script>
+            </head>
+            <body>
+              <script language = "javascript" type = "text/javascript">
+                document.write("Javascript tutorials by sairam")
+              </script>
+            </body>
+          </html>
+         
+The script tag takes the two important attributes
+        Language:- the language tag specifies the language we using in script tag
+        type    :- attribute is what is now recommended to indicate the scripting language 
+                   in use and its value should be set to "text/javascript"
+
+In javascript the whitespace and line breaks will be negalated and semicolons are optional
+The main thing to remember in javascript is Case Sensitivity
+the comments in javascript is double slashs "//"
