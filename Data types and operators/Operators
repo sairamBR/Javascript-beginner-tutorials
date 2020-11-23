@@ -4,3 +4,8 @@ the list of operators in javascript:-
             Logical (or Relational) Operators
             Assignment Operators
             Conditional (or ternary) Operators
+Along all these operators javascript as another operator called typeof
+
+The typeof operator is a unary operator that is placed before its single operand, which can be of any type. Its value is a string indicating the data type of the operand.
+
+The typeof operator evaluates to "number", "string", or "boolean" if its operand is a number, string, or boolean value and returns true or false based on the evaluation.
