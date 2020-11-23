@@ -4,3 +4,26 @@ they are:-
          <body> section
          (both <head> and <body> section)
          by Linking javascript files
+         
+   Example:- HTML PAGE CODE
+                  <html>
+                     <head>
+                        <script src = "javascript.js" ></script> -----> JAVASCRIPT BY FILE LINKING
+                        <script>
+                            alert("head")-------------> JAVASCRIPT IN HEAD SECTION  |
+                        </script>                                                   |
+                     </head>                                                        |
+                                                                                    |----> JAVASCRIPT IN BOTH HEAD AND BODY SECTION
+                     <body>                                                         |
+                         <br>                                                       |
+                        <script>                                                    |
+                          document.write("body")-------> JAVASCRIPT IN BODY SECTION |
+                        </script>
+                     </body>
+                  </html>
+In both Head and Body section method we use javascript statements directly in html file but while using file linking method we write all our javascriptstatements
+in seprate file with .js extension and we link that file using src arttribute
+
+   javascript file
+                  document.write("javascript tutorials by sairam")
+                  alert("javascript tutorials by sairam")
