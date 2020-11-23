@@ -33,7 +33,10 @@ double
 else
 enum*
 eval
-export*	extends*	false	final
+export*	
+extends*	
+false	
+final
 finally	
 float
 for
