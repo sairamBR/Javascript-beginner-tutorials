@@ -1,0 +1,76 @@
+JavaScript Data Types:-
+                The Data types are the most fundamental characterstics of Programming Languages. the data types are the type of values that can be manipulated in programming language
+                the javaScript allows you to use commonly used data types:-
+                      Numbers ----->1,2,3,4,5,...... in javascript there is no difference intergers and float. all the numbers are consider as the floating point 
+                                     values as pre the IEEE 754 STANDERD.
+                     Strings ------> "ABCD....."
+                     boolean ------> True or Flase.
+
+The Keywords in JavaScript
+          As We see all programming languages in javascript also we have some keywords.
+          Keywords are the reserved words which cannot be used as the function names or varialbe names
+
+list of Keywords in javascript:-
+ as pre ES6
+ 
+abstract	
+arguments
+await*
+boolean
+break
+byte
+case
+catch
+char	
+class*
+const
+continue
+debugger
+default
+delete
+do
+double
+else
+enum*
+eval
+export*	extends*	false	final
+finally	
+float
+for
+function
+goto
+if	
+implements
+import*
+in
+instanceof
+int
+interface
+let*
+long
+native
+new
+null	
+package
+private
+protected
+public	
+return
+short
+static
+super*	
+switch
+synchronized
+this
+throw	
+throws
+transient	
+true
+try	
+typeof	
+var	
+void
+volatile
+while
+with	
+yield
