@@ -6,4 +6,12 @@ The procedure to write the varible name is by using javascript is keyword Var fo
       var <variable name>;
    </script>
  As we said previously the javascript is case senstive, so keep that in mind while declearing and using your javascript variables.
-      
+In javascript variables declearation two types are there the global variables and local variables
+
+Local variables:-  
+            While you using javascript variables the variables which are decleared under the function are called local variables they have local scope it means can used within that function
+
+Global Variables:-
+            In javascript the variables which are decleared outside the function are called global variables these variables will have global scope they will accessed by any function without passing into function parameters
+ 
+ for these both I have code files gothrough it for better understanding
