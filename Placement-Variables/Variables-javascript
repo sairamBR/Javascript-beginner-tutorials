@@ -1,0 +1,9 @@
+like all programming lanaguage the javascript also accept the varibles and the variables are nothing named containers where you can place your data and used in later by mention ur variale name.
+The procedure to write the varible name is by using javascript is keyword Var followed by "variable name"
+    <script>
+      var <variable name>;
+      var <variable name>;
+      var <variable name>;
+   </script>
+ As we said previously the javascript is case senstive, so keep that in mind while declearing and using your javascript variables.
+      
