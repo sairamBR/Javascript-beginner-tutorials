@@ -1,0 +1,19 @@
+SWITCH CASE
+The objective of a switch statement is to give an expression to evaluate and several different statements to execute based on the value of the expression. The interpreter checks each case against the value of the expression until a match is found. If nothing matches, a default condition will be used.
+
+The break statements indicate the end of a particular case. If they were omitted, the interpreter would continue executing each statement in each of the following cases.
+
+SYNTAX:-
+    switch (expression) {
+   case condition 1: statement(s)
+   break;
+   
+   case condition 2: statement(s)
+   break;
+   ...
+   
+   case condition n: statement(s)
+   break;
+   
+   default: statement(s)
+}
