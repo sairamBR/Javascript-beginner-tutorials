@@ -1,0 +1,7 @@
+We can get the input from user using promt command in javascript.
+
+The prompt() method displays a dialog box that prompts the visitor for input.
+
+A prompt box is often used if you want the user to input a value before entering a page.
+
+we will also some more user input functions later in series.
