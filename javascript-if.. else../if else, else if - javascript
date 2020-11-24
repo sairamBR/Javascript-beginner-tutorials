@@ -1,0 +1,39 @@
+JavaScript supports the following forms of if..else statement −
+
+if statement
+
+if...else statement
+
+if...else if... statement.
+
+if statement
+The if statement is the fundamental control statement that allows JavaScript to make decisions and execute statements conditionally.
+
+SYNTAX:-
+  if (expression) {
+   Statement(s) to be executed if expression is true
+}
+
+if...else statement
+The 'if...else' statement is the next form of control statement that allows JavaScript to execute statements in a more controlled way.
+
+SYNTAX:-
+  if (expression) {
+   Statement(s) to be executed if expression is true
+} else {
+   Statement(s) to be executed if expression is false
+}
+
+if...else if... statement
+The if...else if... statement is an advanced form of if…else that allows JavaScript to make a correct decision out of several conditions.
+
+SYNTAX:-
+  if (expression 1) {
+   Statement(s) to be executed if expression 1 is true
+} else if (expression 2) {
+   Statement(s) to be executed if expression 2 is true
+} else if (expression 3) {
+   Statement(s) to be executed if expression 3 is true
+} else {
+   Statement(s) to be executed if no expression is true
+}
