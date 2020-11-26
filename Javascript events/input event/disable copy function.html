@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <script type="text/javascript">
+        $(document).ready(function () {
+            //Disable cut copy paste
+            $('body').bind('cut copy paste', function (e) {
+                e.preventDefault();
+            });
+            
+            //Disable mouse right click
+            $("body").on("contextmenu",function(e){
+                return false;
+            });
+        });
+        </script>
+    </head>
+    <body>
+        <div id="body">
+            <p>I've got quiz application. Where robot ask different questions in chat, this questions belong to different areas of knowledges.<br> 
+                User that answered question first, receive points. The problem is, that some users googling answers.<br>
+                I want somehow prevent users from coping question from web page and googling answers.</p>
+        </div>
+    </body>
