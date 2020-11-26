@@ -1,0 +1,16 @@
+void is an important keyword in JavaScript which can be used as a unary operator that appears before its single operand, which may be of any type. This operator specifies an expression to be evaluated without returning a value.
+
+Syntax
+The syntax of void can be either of the following two −
+
+<head>
+   <script type = "text/javascript">
+      <!--
+         void func()
+         javascript:void func()
+         or:
+         void(func())
+         javascript:void(func())
+      //-->
+   </script>
+</head>
